@@ -18,7 +18,7 @@
             <li>Updating heading attributes to fall in sequential order (only changes the footer from h2 to h4)</li>
             <li>Confirmed the page title element is descriptive by including the service industry in addition to the name of the company</li>
         </ul>
-    <li>Executed QA on the page, including</li>
+    <li>Technical Acceptance Criteria</li>
         <ul>
             <li>Confirmed page layout and design is consistent with the starter code</li>
             <li>Clicked all links t oconfirm correct functionality</li>
