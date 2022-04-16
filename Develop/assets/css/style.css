@@ -4,6 +4,13 @@
     margin: 0;
 }
 
+/* element {all: initial} was added to semantic tag to remove the browser's default formatting */
+/* we can now increase the accessability of the page without completely overdoing the formatting changes */
+
+nav, section {
+    all: initial;
+}
+
 body {
     background-color: #d9dcd6;
 }
