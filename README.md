@@ -21,6 +21,20 @@
     <li>Technical Acceptance Criteria</li>
         <ul>
             <li>Confirmed page layout and design is consistent with the starter code</li>
-            <li>Clicked all links t oconfirm correct functionality</li>
+            <li>Confirmed all links correct functionality</li>
+            <li>Consolidated and organized CSS selectors and properties</li>
         </ul>
+    <li>Deployment</li>
+        <ul>
+            <li>Application is deployed at a live URL: <a href="https://cpm-128.github.io/challenge-1/">cpm-128.github.io/challenge-1</a></li>
+            <li>GitHub repository contains application code</li>
+        </ul>
+    <li>Application</li>
+        <ul>
+            <li>Screenshot of application:</li>
+            <li>
+                <img src="./screenshot-challenge-1-04_16_2022.png">
+            </li>
+        </ul>
+
 </ul>
